@@ -1,6 +1,6 @@
 <!-- khanhdoan259 -->
 <a href="#" target="_blank">
-  <img src="svg/khanhdoan259.svg" width="1200" alt="khanhdoan259-official" />
+  <img src="svg/khanhdoan259.svg" width="1200" alt="click to see the source" />
 </a>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
